@@ -11,7 +11,7 @@
 </script>
 
 <main class="flex flex-col items-center justify-center gap-6 h-screen bg-neutral-900">
-    <div class="flex flex-row gap-6">
+    <div class="flex flex-row gap-4 sm:gap-6">
         <img class="size-14 sm:size-20 rounded-full" src={ avatarUrl } alt="Аватар Orzxiety">
         <div class="flex items-center justify-center">
             <h1 class="text-4xl sm:text-5xl font-body font-medium text-neutral-100">Orzxiety</h1>
