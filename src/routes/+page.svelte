@@ -3,11 +3,11 @@
     import telegram_icon from '../assets/icons/telegram.svg?raw';
     import github_icon from '../assets/icons/github.svg?raw';
 
-    const avatarUrl = $state('https://github.com/Orzxiety.png');
-    const userDescription = $state("Я разработчик, дизайнер и вебмастер");
-    const discordLink = $state('https://discord.com/users/565956261968085003');
-    const telegramLink = $state('https://t.me/orzxiety');
-    const githubLink = $state('https://github.com/Orzxiety');
+    const avatarUrl = "https://github.com/Orzxiety.png";
+    const userDescription = "Я разработчик, дизайнер и вебмастер";
+    const discordLink = "https://discord.com/users/565956261968085003";
+    const telegramLink = "https://t.me/orzxiety";
+    const githubLink = "https://github.com/Orzxiety";
 </script>
 
 <main class="flex flex-col items-center justify-center gap-6 h-screen bg-neutral-900">
