@@ -4,7 +4,6 @@
     import github_icon from '../assets/icons/github.svg?raw';
 
     const avatarUrl = "https://github.com/Orzxiety.png";
-    const userDescription = "Я разработчик, дизайнер и вебмастер";
     const discordLink = "https://discord.com/users/565956261968085003";
     const telegramLink = "https://t.me/orzxiety";
     const githubLink = "https://github.com/Orzxiety";
@@ -16,9 +15,6 @@
         <div class="flex items-center justify-center">
             <h1 class="text-4xl sm:text-5xl font-body font-medium text-neutral-100">Orzxiety</h1>
         </div>
-    </div>
-    <div class="flex">
-        <p class="text-xl sm:text-3xl font-body w-64 sm:w-96 text-center font-normal text-neutral-100">{ userDescription }</p>
     </div>
     <div class="flex flex-row gap-6">
         <a href={ discordLink } aria-label="Discord">
